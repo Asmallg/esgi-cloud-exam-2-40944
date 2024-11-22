@@ -1,2 +1,4 @@
-# esgi-cloud-exam-2-40944
-☁️ Projet Cloud ☁️
+Static Website Example
+----------------------
+
+Static website exercise for Cloud exam
